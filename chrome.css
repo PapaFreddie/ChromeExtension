@@ -1,0 +1,62 @@
+
+body{
+    /*font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 100px;
+    padding-right: 200px;
+    text-align: inherit;
+    color: rgb(101, 184, 184);
+    border-right: 5px;
+    border-right: 10px;
+    background-color: rgb(23, 48, 65);
+    margin-top: 50px;
+    */
+    padding: 10px;
+    min-width: 300px;
+    
+
+}
+h3{
+    font-weight: bolder;
+    color: rgb(156, 65, 65);
+}
+
+input{
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #5f9341;
+    border-radius: 5px;
+}
+button{
+    background-color: #5f9341;
+    color: antiquewhite;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bolder;
+    border-radius: 5px;
+    border: 1px solid #5f9341;
+
+
+}
+#delete-btn{
+    background: white;
+    color: #5f9341;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0px;
+    margin-top: 20px;
+
+}
+
+li{
+ margin-top: 5px;
+}
+li a{
+    color: green;
+
+}
